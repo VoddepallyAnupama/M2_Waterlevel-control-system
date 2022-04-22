@@ -1,0 +1,44 @@
+Components:-
+
+ATmega328:-
+
+ATmega328 is an Advanced Virtual RISC (AVR) microcontroller. It supports 8-bit data processing. ATmega-328 has 32KB internal flash memory.
+ATmega328 has 1KB Electrically Erasable Programmable Read-Only Memory (EEPROM). This property shows if the electric supply supplied to the micro-controller is removed, 
+even then it can store the data and can provide results after providing it with the electric supply.
+ATmega 328 has several different features which make it the most popular device in today’s market. These features consist of advanced RISC architecture,
+good performance, low power consumption,real timer counter having separate oscillator, 6 PWM pins, programmable Serial USART,programming lock for software
+security, throughput up to 20 MIPS etc.
+
+ATmega328 Diagram _ https://www.theengineeringprojects.com/wp-content/uploads/2017/07/ATmega328-Pinout.png
+
+- ATmega328 is an 8-bit, 28-Pin AVR Microcontroller, manufactured by Microchip, follows RISC Architecture and has a flash-type program memory of 32KB.
+- Atmega328 is the microcontroller, used in basic Arduino boards i.e Arduino UNO, Arduino Pro Mini and Arduino Nano.
+- It has an EEPROM memory of 1KB and its SRAM memory is 2KB.
+- It has 8 Pins for ADC operations, which all combine to form PortA ( PA0 – PA7 ).
+- It also has 3 built-in Timers, two of them are 8 Bit timers while the third one is 16-Bit Timer.
+- You must have heard of Arduino UNO, UNO is based on atmega328 Microcontroller. It’s UNO’s heart.
+- It operates ranging from 3.3V to 5.5V but normally we use 5V as a standard.
+- Its excellent features include cost-efficiency, low power dissipation, programming lock for security purposes, real timer counter with separate oscillator.
+- ATmega-328 is an AVR Microcontroller having twenty-eight (28) pins in total.
+
+Ultrasonic Sensor-HC_SR04:-
+
+- HC-SR04 ultrasonic distance sensor. This economical sensor provides 2cm to 400cm of non-contact measurement functionality with a ranging accuracy 
+that can reach up to 3mm. Each HC-SR04 module includes an ultrasonic transmitter, a receiver and a control circuit.
+
+Diagram:- https://cdn.sparkfun.com//assets/parts/1/3/5/0/8/15569-Ultrasonic_Distance_Sensor_-_HC-SR04-01a.jpg
+
+- There are only four pins that you need to worry about on the HC-SR04: VCC (Power), Trig (Trigger), Echo (Receive), and GND (Ground). 
+You will find this sensor very easy to set up and use for your next range-finding project!
+- This sensor has additional control circuitry that can prevent inconsistent "bouncy" data depending on the application.
+
+Wifi Module:-
+
+- The ESP8266 ESP-01 is a Wi-Fi module that allows microcontrollers access to a Wi-Fi network. This module is a self-contained SOC (System On a Chip) 
+that doesn’t necessarily need a microcontroller to manipulate inputs and outputs as you would normally do with an Arduino.
+- for example, because the ESP-01 acts as a small computer. Depending on the version of the ESP8266, it is possible to have up to 9 GPIOs
+(General Purpose Input Output). Thus, we can give a microcontroller internet access like the Wi-Fi shield does to the Arduino.
+- we can simply program the ESP8266 to not only have access to a Wi-Fi network, but to act as a microcontroller as well. This makes 
+the ESP8266 very versatile, and it can save you some money and space in your projects.
+
+
