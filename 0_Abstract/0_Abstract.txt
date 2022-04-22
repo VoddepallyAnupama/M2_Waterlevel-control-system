@@ -1,0 +1,29 @@
+Waterlevel control System
+
+Abstract:-
+
+- Water source is fundamental for all and a significant factor in agriculture, cultivating and it’s a key for nature of our life.Monitoring water level of a water
+supply, For example, Lakes, River, Waterways and Pond etc.,Plays a major part in rural and agricultural. Even it’s helpful for our every day needs.For example the
+the amount of water drops under the edge level in a bore well, The motor pump may get affected due to dry running. There are many several alternative things wherever 
+water level monitoring is an important task. This report proposes a prototype system design, implementation and description of needed devices and technologies to
+improve Internet of Things (IoT) based water level monitoring and keep track of frequent evaporation in rivers, waterway, lakes and ponds which can be implemented 
+in future smart villages. Keywords: Water level sensor, Arduino atmega328, IoT.
+
+- The main objective of this investigation is to build up a framework to monitor a water level3 of a water source from an inaccessible area.The IoT based system given
+during this study is going to be useful to attain such task. The prototype system experiment of this study allows keeping track of a water supply from remote area 
+continuously. The real usage of the system would require changes in detector and few alternative technologies and source code in spite of the fact that the system 
+and working rule continue as before.
+
+- Evaporation is that the modification of water from a liquid to a gas. Water is constantly dissipating from the surface of the Earth, actually pumping increasingly 
+water vapor into the climate.Water and land surface most of this heat energy comes from the surface, not from the air.
+At the point when water meets dry air, it's not in equilibrium; water particles evaporate off the surface till the quantity of water within the air creates enough 
+force per unit area to attain equilibrium.
+Once water is heated to a temperature of 100C, the force per unit area equals that of low-lying atmospheric pressure. Water source is essential and a significant factor
+in agriculture and farming and it is a key for quality of our life.  
+Monitoring water level of a water source, such as lakes, ponds, rivers etc., plays a key role in agricultural. Even it is useful for our daily needs.For example
+if the level of water drops below the threshold level in a bore well, the motor pump may get affected due to dry running. There are many other situations where
+water level monitoring is an important task. 
+
+
+
+
