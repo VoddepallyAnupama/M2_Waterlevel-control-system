@@ -1,0 +1,12 @@
+Steps to design project:
+
+step-1:
+- open simulide:
+   choose atmega 328
+step-2:
+- choose ultra sonic sensor, leds, esp-01,buzzer and connect the all components properly to the atmega328.
+step-3:
+ dump the code into atmega328
+ - take right click on atmega328 and choose load firmware , choose the hex file from folder.
+step-4:
+click on run and see the output in simulide.
